@@ -12,7 +12,7 @@
 /*Elementos Base*/
 body {
     background:var(--preto);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     color: white;
 }
 
@@ -59,7 +59,7 @@ header nav a:hover{
 }
 
 .filme-principal .titulo{
-    margin-top: 15%;
+    margin-top: 10%;
     font-size: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -94,4 +94,8 @@ header nav a:hover{
     height: 100%;
     width: 100%;
     display: block;
+}
+
+.carousel-filmes{
+    margin-top: 8px;
 }
